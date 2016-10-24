@@ -9,6 +9,10 @@ module.exports = {
 	entry: [
 		'./app/index.js'
 	],
+	devServer: {
+		inline: true,
+		port: 3002
+	},
 	output: {
 		path: __dirname + '/dist',
 		filename: "index_bundle.js"

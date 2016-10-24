@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ava 'app/**/*.test.js' --verbose --require ./other/setup-ava-tests.js"
+    "start": "webpack-dev-server",
+    "production": "webpack -p"
   },
   "repository": {
     "type": "git",
@@ -17,13 +18,15 @@
   },
   "homepage": "https://github.com/KeirSweeney/ReactApp#readme",
   "dependencies": {
-    "jquery": "^3.1.1"
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
     "babel-preset-react": "^6.16.0",
     "html-webpack-plugin": "^2.24.0",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
   }
 }
