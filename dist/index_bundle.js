@@ -28869,7 +28869,7 @@
 	}
 
 	function getRepos(username) {
-	  return axios.get('https://api.github.com/users/' + username + '/repos&per_page=100');
+	  return axios.get('https://api.github.com/users/' + username + '/repos');
 	}
 
 	function getTotalStars(repos) {
