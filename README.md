@@ -15,11 +15,13 @@
 * [License](#license) -->
 
 
-# Introduction
+## Introduction
 
 __Please see the hosted React App [HERE](https://keirsweeney.github.io/ReactApp/dist/)__
 
 This project was created following the [ReactJSProgram](http://courses.reactjsprogram.com/). I highly recomend this course for getting into React as it's learning curve is steady and easy to follow.
+
+The objective of the course was to create a GitHub battle app. This would use the GitHub API to find the users and using a simple algorithm give them a score.
 
 ## Prerequisities
 You will need the following tools to run the project:
