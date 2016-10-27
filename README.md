@@ -1,12 +1,12 @@
 # ReactApp
 
-# React Components
+## React Components
 
-  Focused
-  Independant
-  Reusable
-  Small
-  Testable
+* Focused
+* Independant
+* Reusable
+* Small
+* Testable
 
 <!-- # Contents
 
@@ -34,34 +34,33 @@ You will need the following tools to run the project:
 * [Node.js and Npm](https://nodejs.org/en/download/)
 * [Webpack](https://www.npmjs.com/package/webpack)
 * [Raven](https://www.npmjs.com/package/raven-js)
-* Optional
-* [Localtunnel](https://localtunnel.github.io/www/)
+* [Localtunnel](https://localtunnel.github.io/www/) - Optional
 
 ## Installation
 
 Open up your CLI and type the following:
-```DIGITAL Command Language
+```
 $ git clone https://github.com/KeirSweeney/ReactApp.git
 ```
 Change directory into the project:
-```DIGITAL Command Language
+```
 $ cd ReactApp
 ```
 Install the project dependencies with Npm(you may have to sudo):
-```DIGITAL Command Language
+```
 $ npm install
 ```
 Run the webpack server default task:
-```DIGITAL Command Language
+```
 $ npm run start
 ```
 [click here,](http://localhost:3002) to view the page on your local host.
 
 To run the app on a webserver run the following commands.
-```DIGITAL Command Language
+```
 $ npm install -g localtunnel
 ```
-```DIGITAL Command Language
+```
 $ lt --port 3002
 ```
 
@@ -74,7 +73,7 @@ $ lt --port 3002
 * [Sentry for logging errors](https://sentry.io/)
 
 ## Author
-***Keir Sweeney** - [Github](https://github.com/KeirSweeney/)
+**Keir Sweeney** - [Github](https://github.com/KeirSweeney/)
 
 ## License
 See the [license](LICENSE) file for details.
