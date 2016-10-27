@@ -1,13 +1,5 @@
 # ReactApp
 
-## React Components
-
-* Focused
-* Independant
-* Reusable
-* Small
-* Testable
-
 <!-- # Contents
 
 * [Next Tasks](#next-tasks)
@@ -25,7 +17,7 @@
 
 # Introduction
 
-* Please see the hosted React App [HERE](https://keirsweeney.github.io/ReactApp/dist/)
+__Please see the hosted React App [HERE](https://keirsweeney.github.io/ReactApp/dist/)__
 
 This project was created following the [ReactJSProgram](http://courses.reactjsprogram.com/). I highly recomend this course for getting into React as it's learning curve is steady and easy to follow.
 
@@ -63,6 +55,14 @@ $ npm install -g localtunnel
 ```
 $ lt --port 3002
 ```
+
+## React Components
+
+* Focused
+* Independant
+* Reusable
+* Small
+* Testable
 
 ## Built With
 * [Sublime Text 3](https://www.sublimetext.com/3)
