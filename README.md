@@ -1,22 +1,5 @@
 # ReactApp
 
-<!-- # Contents
-
-* [Next Tasks](#next-tasks)
-* [Introduction](#introduction)
-* [Prerequisities](#prerequisities)
-* [Installation](#installation)
-* [Usage](#usage)
-  * [Load the plugin](#load-the-plugin-files-into-your-project)
-  * [Set up your HTML](#set-up-your-html)
-  * [Styling Options](#styling-options)
-* [jQuery custom settings](#use-custom-settings-in-the-jquery-plugin)
-* [Author](#author)
-* [License](#license) -->
-
-
-## Introduction
-
 __Please see the hosted React App [HERE](https://keirsweeney.github.io/ReactApp/dist/)__
 
 This project was created following the [ReactJSProgram](http://courses.reactjsprogram.com/). I highly recomend this course for getting into React as it's learning curve is steady and easy to follow.
