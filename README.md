@@ -23,6 +23,10 @@ This project was created following the [ReactJSProgram](http://courses.reactjspr
 
 The objective of the course was to create a GitHub battle app. This would use the GitHub API to find the users and using a simple algorithm give them a score.
 
+API Requsts are handled by AXIOS.
+Sentry and raven-js used for error logging.
+Localtunnel used to push the localserve to a temporary webserver for a remote view of the page.
+
 ## Prerequisities
 You will need the following tools to run the project:
 * [Node.js and Npm](https://nodejs.org/en/download/)
@@ -48,15 +52,19 @@ Run the webpack server default task:
 ```
 $ npm run start
 ```
-[click here,](http://localhost:3002) to view the page on your local host.
+[Click here,](http://localhost:3002) to view the page on your local host.
 
-To run the app on a webserver run the following commands.
+To run the app on a remote webserver run the following commands.
 ```
 $ npm install -g localtunnel
 ```
 ```
 $ lt --port 3002
 ```
+
+Note: The local server must already be running for this to work, so run this command in a new terminal window.
+
+Once the command has run, it will give you a URL where you can go and see the hosted webpage.
 
 ## React Components
 
