@@ -1,4 +1,4 @@
-# ReactApp
+# React App
 
 __Please see the hosted React App [HERE](https://keirsweeney.github.io/ReactApp/dist/)__
 
